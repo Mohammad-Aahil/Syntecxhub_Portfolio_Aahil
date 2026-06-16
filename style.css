@@ -1,0 +1,23 @@
+html {
+  scroll-behavior: smooth;
+}
+
+/* Card hover */
+.card {
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-8px);
+}
+
+/* Navbar hover */
+.nav-link:hover {
+  color: #0d6efd !important;
+}
+
+/* Section spacing improvement */
+section {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
