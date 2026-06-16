@@ -7,7 +7,7 @@ This project was developed as part of my internship at **Syntecxhub**. It showca
 ---
 
 ## 🌐 Live Demo
-https://your-username.github.io/Syntecxhub_Portfolio_Website/
+https://Mohammad-Aahil.github.io/Syntecxhub_Portfolio_Website/
 
 ---
 
